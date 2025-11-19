@@ -13,6 +13,8 @@ Traditional statistical models such as gamma, exp, weibull etc. Do parameter est
 For ML models, try LSTM and PCA based regression and any other models if they feel suitable
 8. LaTeX report writing
 
+Note: Task 7 is a big one, two people can work on it together
+
 ROLES
 
 Sankalp
