@@ -5,7 +5,8 @@ TASKS
 3. Plot the correlation matrices of GHI against other parameters. Write an observation note.
 4. Normality test for the GHI data. (Do a proper hypothesis test using proportion for this alongside other methods). Identify suitable distribution if not normal.
 5. Analysis of Trend, Seasonality, Cyclicity and Randomness in dataset
-6. Using AR, MA, ARMA, ARIMA, SARIMA for forecasting. Use different evaluation metrices such as MAE, RMSE, MAPE for evaluation. tabulate comparison between methods at the end.
+6. Using AR, MA, ARMA, ARIMA, SARIMA for forecasting. Find autocorrelation and cross-correlation, and other applicable things. Use different evaluation metrices such as MAE, RMSE, MAPE for evaluation. tabulate comparison between methods at the end.
+Also take care of post modelling checks and metrics such as goodness of fit tests (KS test), AIC, BIC, etc
 7. implementing other techniques (other statistical models, ml models, etc.) to forecast the GHI. Use the same metrics for evaluating and tabulate results if implementing.
 8. LaTeX report writing
 
@@ -13,10 +14,10 @@ ROLES
 
 Sankalp
 Sachit
-Prabhanjan - 3
-Hem - 6
+Prabhanjan-3
+Hem-6
 Arnab-5
 Mohul-1
 Udit-4
 Anushka
-Tanish  Task 2
+Tanish-2
