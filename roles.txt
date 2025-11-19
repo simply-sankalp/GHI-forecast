@@ -1,0 +1,28 @@
+TASKS
+
+1. Graphical plots of GHI data to understand GHI data. Ensure that observations from the plots are recorded. Try to plot derived data as well for feature extraction.
+2. Description of parameters present in the dataset (column headers). Try to write it in own words (or humanise if gpt-ing).Describe relevance of each parameter to solar energy.
+3. Plot the correlation matrices of GHI against other parameters. Write an observation note.
+If cross-corr is high, then perhaps discriminant analysis is not suitable, factor analysis better and so on
+4. Normality test for the GHI data. (Do a proper hypothesis test using proportion for this alongside other methods). Identify suitable distribution if not normal.
+5. Analysis of Trend, Seasonality, Cyclicity and Randomness in dataset
+6. Using AR, MA, ARMA, ARIMA, SARIMA for forecasting. Find autocorrelation and cross-correlation, and other applicable things. Use different evaluation metrices such as MAE, RMSE, MAPE for evaluation. tabulate comparison between methods at the end.
+Also take care of post modelling checks and metrics such as goodness of fit tests (KS test, AIC, log likelihood) etc
+7. Implementing other techniques (other statistical models, ml models, etc.) to forecast the GHI. Use the same metrics for evaluating and tabulate results if implementing.
+Traditional statistical models such as gamma, exp, weibull etc. Do parameter estimation via MLE
+For ML models, try LSTM and PCA based regression and any other models if they feel suitable
+8. LaTeX report writing
+
+Note: Task 7 is a big one, two people can work on it together
+
+ROLES
+
+Sankalp
+Sachit
+Prabhanjan-3
+Hem-6
+Arnab-5
+Mohul-1
+Udit-4
+Anushka-4
+Tanish-2

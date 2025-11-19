@@ -1,0 +1,19 @@
+The Rajasthan-1 dataset gives a clear and complete view of the solar and weather conditions at the measurement site. It contains the key solar radiation values—GHI, DNI, and DHI—along with clear-sky estimates that show what the sunlight would look like under perfect, cloud-free conditions. In addition to solar measurements, the dataset also includes useful atmospheric information such as temperature, humidity, dew point, air pressure, water vapor content, and wind conditions. Together, these variables help explain how much sunlight actually reaches the ground and what factors change it from hour to hour.
+
+GHI is the most important indicator for estimating the electricity that solar PV panels can generate, while DNI is especially valuable for concentrated solar power (CSP) systems that depend heavily on direct beam sunlight. DHI, on the other hand, becomes more important on cloudy or hazy days, since it represents scattered sunlight.
+
+Several weather variables have clear positive or negative relationships with solar energy:
+
+Temperature generally increases on sunny days, so it often shows a positive relationship with GHI. However, very high temperatures slightly reduce PV efficiency.
+
+Relative humidity and dew point tend to reduce solar radiation, since moisture in the air leads to cloud formation and more scattering of sunlight.
+
+Precipitable water also has a negative impact on DNI and GHI because water vapor absorbs part of the solar spectrum.
+
+Aerosols or dust (from desert surroundings) can scatter sunlight and lower DNI, again showing a negative relationship.
+
+Wind speed can have a mixed effect—higher wind can cool solar panels and improve their efficiency, but strong winds may bring dust that reduces clarity of the atmosphere.
+
+Pressure changes can also influence air density, which in turn affects scattering, though this effect is usually small.
+
+By combining solar radiation data with these meteorological variables, the dataset allows us to understand why sunlight varies across different times of the day and between seasons. These insights are essential for creating accurate solar energy forecasts and for designing reliable renewable energy systems.
