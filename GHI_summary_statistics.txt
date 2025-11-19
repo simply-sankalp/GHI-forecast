@@ -1,0 +1,33 @@
+GHI DATA SUMMARY STATISTICS
+================================================================================
+
+Total Records: 131400
+Date Range: 2000-01-01 00:00:00 to 2014-12-31 23:00:00
+Years Covered: 2000-2014
+
+sep1:
+
+ALL VALUES (including nighttime zeros):
+Mean GHI: 237.89 W/m²
+Median GHI: 0.00 W/m²
+Std Dev: 315.35 W/m²
+Min: 0.00 W/m²
+Max: 995.00 W/m²
+
+sep2:
+
+NON-ZERO VALUES (daytime only):
+Count: 64,884
+Mean GHI (daytime): 481.76 W/m²
+Median GHI (daytime): 507.00 W/m²
+Std Dev (daytime): 289.65 W/m²
+CV (coefficient of variation): 0.601
+
+sep3:
+
+PERCENTILES (non-zero):
+25th percentile: 217.00 W/m²
+50th percentile: 507.00 W/m²
+75th percentile: 726.00 W/m²
+95th percentile: 913.00 W/m²
+99th percentile: 951.00 W/m²
