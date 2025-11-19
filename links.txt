@@ -1,3 +1,4 @@
 For any colab notebooks, add link here with description
 
+PPT  -  https://docs.google.com/presentation/d/1U2SYNB7OofWWJVla9o4uu2YwHKg5Lfb95umHV-BjsUs/edit?slide=id.p#slide=id.p
 SANKALP  dataset analysis for trend and seasonality  -  https://github.com/simply-sankalp/GHI-forecast/blob/main/dataset_analysis.ipynb
