@@ -10,7 +10,7 @@ If cross-corr is high, then perhaps discriminant analysis is not suitable, facto
 Also take care of post modelling checks and metrics such as goodness of fit tests (KS test, AIC, log likelihood) etc
 7. Implementing other techniques (other statistical models, ml models, etc.) to forecast the GHI. Use the same metrics for evaluating and tabulate results if implementing.
 Traditional statistical models such as gamma, exp, weibull etc. Do parameter estimation via MLE
-For ML models, try LSTM and PCA based regression
+For ML models, try LSTM and PCA based regression and any other models if they feel suitable
 8. LaTeX report writing
 
 ROLES
